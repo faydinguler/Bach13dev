@@ -1,4 +1,5 @@
 public class ArthimaticCalculations {
+    //feature 2
     public void addition(integer x, integer y){
         integer z = x + y;
         system.debug('sum: ' + z);
